@@ -12,4 +12,4 @@ bio = { "name": Name,
         "home": Hometown,
         "age": Age}
 
-print (bio["name"],bio["home"],bio["age"]) #prints the keys in the dictionary 
+print ("your",bio["name"],"from",bio["home"],"and",bio["age"],"years old") #prints the keys in the dictionary 
